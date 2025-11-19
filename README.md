@@ -1,4 +1,4 @@
-# thermistor-logger
+# thermistor-monitor
 A small embedded project for arduino which measures the temperature of the environment.
 
 # Features
